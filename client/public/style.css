@@ -1,0 +1,184 @@
+.navbar-expand-md {
+
+  border: 1px solid transparent;
+  border-color: #e7e7e7
+}
+
+.bg-light {
+  background-color: #FFFFFF !important;
+}
+.avatar_small {
+  width: 28px
+}
+
+.col-md-2.dateview {
+  padding-right: 0;
+}
+.avatar_md {
+  width: 48px
+}
+
+.avatar_big {
+  width: 68px
+}
+
+.avatar_full {
+  width: 100%
+}
+
+body {
+  color: #484848;
+  font-size: 14px;
+  line-height: 1.43;
+  background-color: #F8F8F8;
+  font-family: Circular,"Varela Round", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale
+}
+
+a {
+  color: #00A699;
+}
+
+h1, .h1 {
+  font-size: 2.0rem;
+}
+.container {
+  width: 80%;
+  margin-top: 24px
+}
+
+.text-babu, .icon-babu {
+  color: #00A699;
+}
+
+.text-red, .icon-red {
+  color: #FF5A5F;
+}
+
+// NAVBARS
+.navbar-light {
+  background-color: #FFFFFF !important;
+}
+
+// avatar
+
+.rounded-circle {
+  background-color: #F2F2F2 !important;
+  box-shadow: 0 0 0 2px #DBDBDB !important;
+  border-radius: 50% !important;
+  display: inline-block !important;
+  overflow: hidden !important;
+  vertical-align: middle !important;
+  width: 28px !important;
+  height: 28px !important;
+}
+
+
+.navbar-brand {
+  color: #FF5A5F !important;
+  font-size: 1.4em;
+  font-weight: 400;
+  padding-left: 55px;
+}
+
+// BUTTONS
+.btn-block {
+  display: block;
+  white-space: normal;
+  width: 100%;
+}
+
+.btn {
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 9px 27px;
+}
+
+
+.btn-small {
+  padding: 5px 15px;
+  margin-top: 15px;
+}
+
+.btn:hover, .btn:focus {
+  color: #fff;
+}
+
+.btn.btn-light {
+  width: 100%;
+  border-color: #c4c4c4;
+  background: white;
+  color: #484848;
+  border-radius: 2px;
+  padding: 10px 0;
+  margin-top: 10px;
+}
+
+.btn.btn-normal {
+  border: 1px solid #ff5a5f;
+  background-color: #ff5a5f;
+  color: #fff;
+}
+
+.btn.btn-normal:active {
+  outline: none;
+  border-color: #e00007;
+  background-color: #e00007;
+}
+
+.btn.btn-form {
+  border: 1px solid #00A699;
+  background-color: #00A699;
+}
+
+.btn.btn-form:active {
+  outline: none;
+  border-color: #066165;
+  background-color: #066165;
+}
+
+.btn.btn-facebook {
+  border: 1px solid #3B5998;
+  background-color: #3B5998;
+}
+
+.btn.btn-facebook:active {
+  outline: none;
+  border-color: #2d467b;
+  background-color: #2d467b;
+}
+
+
+.card .card-title{
+  color: #ffffff !important;
+  background-color: #00A699;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 10px
+}
+
+.row-space-1 {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.row-space-2 {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.row-space-3 {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.row.row-space-1 {
+  width: 100%
+}
+
+.addReview {
+  position: absolute;
+  right: 100px;
+  top: 100px
+}
